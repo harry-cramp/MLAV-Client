@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Antivirus</string>
+    <string name="file_scan_button_text">Scan file</string>
+    <string name="fast_scan_button_text">Run fast scan</string>
+    <string name="settings_button_text">Settings</string>
+    <string name="scheduled_fast_scan_setting_text">Enable Scheduled Fast Scan</string>
+    <string name="scheduler_options_text">Run fast scan:</string>
+    <string name="scheduler_option_hourly">Hourly</string>
+    <string name="scheduler_option_daily">Daily</string>
+    <string name="scheduler_option_weekly">Weekly</string>
+    <string name="scheduler_option_monthly">Monthly</string>
+</resources>
