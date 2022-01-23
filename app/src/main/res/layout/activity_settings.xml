@@ -32,24 +32,29 @@
             android:id="@+id/hourly_option_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:enabled="false"
             android:text="@string/scheduler_option_hourly" />
 
         <RadioButton
             android:id="@+id/daily_option_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:enabled="false"
             android:text="@string/scheduler_option_daily" />
 
         <RadioButton
             android:id="@+id/weekly_option_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:enabled="false"
+            android:checked="true"
             android:text="@string/scheduler_option_weekly" />
 
         <RadioButton
             android:id="@+id/monthly_option_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:enabled="false"
             android:text="@string/scheduler_option_monthly" />
     </RadioGroup>
 </LinearLayout>
